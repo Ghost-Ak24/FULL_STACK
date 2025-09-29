@@ -1,0 +1,28 @@
+.counter-container {
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 40%;
+  width: 350px;
+  height: 150px;
+}
+
+.counter-button1 {  
+
+    background-color: rgb(230, 94, 94);
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.counter-button2 {
+    background-color: rgb(5, 246, 37);
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.max-message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
